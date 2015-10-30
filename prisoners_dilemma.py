@@ -1,5 +1,5 @@
 from __future__ import print_function
-#Fixing this now
+#Fixing Github
 #one more try
 ''' one final change
 PrisonerDilemma.py allows hard-coding different strategies
