@@ -1,2 +1,3 @@
 # 3rdhrCSE
-3rd hour CSE 
+Jack Is awesome
+
