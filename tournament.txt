@@ -1,3 +1,204 @@
+team 1 vs. team 0
+100 vs. -500
+backstabber vs. loyal
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 3 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 0
+66 vs. -333
+betray every 3rd round vs. loyal
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 1
+-335 vs. -132
+betray every 3rd round vs. backstabber
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 4 vs. team 2
+-49 vs. -250
+betray every 3rd round vs. loyal vengeful
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
+
+team 4 vs. team 3
+-49 vs. -250
+betray every 3rd round vs. loyal vengeful
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
+
+team 5 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 1
+-376 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 5 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 4
+-250 vs. -50
+loyal vengeful vs. betray every 3rd round
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+
+team 6 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 1
+-376 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 4
+-250 vs. -49
+loyal vengeful vs. betray every 3rd round
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
+
+team 6 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 0
+99 vs. -497
+loyal vengeful vs. loyal
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 1
+-252 vs. -248
+loyal vengeful vs. backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 7 vs. team 2
+-75 vs. -372
+loyal vengeful vs. loyal vengeful
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+
+team 7 vs. team 3
+-74 vs. -374
+loyal vengeful vs. loyal vengeful
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 7 vs. team 4
+-134 vs. -331
+loyal vengeful vs. betray every 3rd round
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+
+team 7 vs. team 5
+-74 vs. -374
+loyal vengeful vs. loyal vengeful
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 7 vs. team 6
+-75 vs. -372
+loyal vengeful vs. loyal vengeful
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+
+
+
+
+	Each column shows score earned per round against each other player.
+
+
+	P0	P1	P2	P3	P4	P5	P6	P7	
+P0	0	100	0	0	66	0	0	99	
+P1	-500	0	-377	-377	-335	-376	-376	-252	
+P2	0	-74	0	0	-49	0	0	-75	
+P3	0	-74	0	0	-49	0	0	-74	
+P4	-333	-132	-250	-250	0	-250	-250	-134	
+P5	0	-74	0	0	-50	0	0	-74	
+P6	0	-75	0	0	-49	0	0	-75	
+P7	-497	-248	-372	-374	-331	-374	-372	0	
+Total:	-1328	-574	-997	-999	-794	-999	-997	-582	
+
+
+ Average per round, with team strategy names:
+
+player 0: -166 points: loyal
+player 1: -72 points: backstabber
+player 2: -125 points: loyal vengeful
+player 3: -125 points: loyal vengeful
+player 4: -100 points: betray every 3rd round
+player 5: -125 points: loyal vengeful
+player 6: -125 points: loyal vengeful
+player 7: -73 points: loyal vengeful
+
+
+-------------------------------------------------------------------------------
+Here is the code that produced this data:
+
 from __future__ import print_function
 #Fixing Github
 #one more try
