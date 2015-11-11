@@ -213,7 +213,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             elif opponent_history[-1] == 'c':
                 return 'c'
             else:
-                if random.randint(0, 100) > 95:
+                backstabber = True
+                for i in opponent_history:
+                    if i == 'c':
+                        backstabber = False;
+                if random.randint(0, 100) > 95 and not backstabber:
                     return 'c'
                 else:
                     return 'b'
