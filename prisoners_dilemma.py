@@ -213,7 +213,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             elif opponent_history[-1] == 'c':
                 return 'c'
             else:
-                if random.randInt(0, 100) > 95:
+                if random.randint(0, 100) > 95:
                     return 'c'
                 else:
                     return 'b'
