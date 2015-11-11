@@ -275,20 +275,27 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    ######
-    ######       
-    #
+    
     elif player == 7:
         if getting_team_name:
-            return 'loyal vengeful'
-        else:
-            if len(opponent_history)==0: 
+            return 'Adam and Eli'
+        else:     
+            if len(opponent_history)==0:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' 
             else:
-                return 'b' 
-
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' 
+                else:
+                    return 'c' 
 
 
 
