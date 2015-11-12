@@ -207,7 +207,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
-            size = len(history)
+            #size = len(history)
             if len(opponent_history)==0:
                 return 'c'
             elif opponent_history[-1] == 'c':
@@ -223,10 +223,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                     return 'b'
             
             
+            '''
             if(size%3==0): #the number of rounds played is a multiple of 3
                 return 'c'
             else:
                 return 'b'
+                '''
     
     
     
