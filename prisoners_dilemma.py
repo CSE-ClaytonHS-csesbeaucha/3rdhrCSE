@@ -206,11 +206,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
-<<<<<<< HEAD
             return 'Jack and Thomas'
-=======
-            return 'Thomas and Jack'
->>>>>>> refs/remotes/origin/master
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
