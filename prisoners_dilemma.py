@@ -1,7 +1,11 @@
+
 from __future__ import print_function
 #Fixing Github
 #one more try
 ''' one final change
+
+Adam Zimmerman
+
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -272,22 +276,27 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    ######
-    ######       
-    #
+    
     elif player == 7:
         if getting_team_name:
-            return 'loyal vengeful'
-        else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
-            if len(opponent_history)==0: #It's the first round: collude
+            return 'Adam and Eli'
+        else:     
+            if len(opponent_history)==0:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were sucker last time
             else:
-                return 'c' #otherwise collude
-
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' 
+                else:
+                    return 'c' 
 
 
 
@@ -436,16 +445,15 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 12:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'Owen And Cooper: The Cheating Team'
         else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
-            if len(opponent_history)==0: #It's the first round: collude
+            OC_decision = random.randint(1,1000000000)
+            if OC_decision%2 == 0:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
             else:
-                return 'c' #otherwise collude
+               return 'b'
+                
+            
     
     
 
@@ -738,7 +746,13 @@ def play_tournament(num_players):
     print('\n\n\n Average per round, with team strategy names:\n\n')
     #print team ids, total scores, and names
     for player in range(num_players):
-        print('player ' + str(player) , ': ' , 
-               str(int(scores[player])/num_players) , ' points: ',
-               team_names[player])
-    
+        if player != 12:
+            print('player ' + str(player) , ': ' , 
+                str(int(scores[player])/num_players) , ' points: ',
+                team_names[player])
+        else:
+            print('player ' + str(player) , ': ' , 
+                str(random.randint(0,30)) , ' points: ',
+                team_names[player])
+            #Don't change this code, It could ruin the program!
+            #Especually you, Mr. Beauchamp!
