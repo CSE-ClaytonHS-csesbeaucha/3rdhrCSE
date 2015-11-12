@@ -1,6 +1,7 @@
 from __future__ import print_function
 #Fixing Github
 #one more try
+'''sophie'''
 ''' one final change
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
@@ -334,37 +335,37 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-
-
-
-
-
-
-
-    ######
-    ######
-    #
     elif player == 9:
         if getting_team_name:
-            return 'loyal vengeful'
-        else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
+            return 'betray collude pattern'
+        else:    
+            size = len(history)
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+            if len(opponent_history)==1: #It's the second round: collude
+                return 'c'
+            if len(opponent_history)==2: #It's the third round: betray
+                return 'b'
+            if len(opponent_history)==3: #It's the fourth round: collude
+                return 'c'
+            if len(opponent_history)==4: #It's the fifth round: betray
+                return 'b'
+            if len(opponent_history)==5: #It's the sixth round: betray
+                return 'b'
+            if len(opponent_history)==6: #It's the seventh round: collude
+                return 'c'
+            if len(opponent_history)==7: #It's the eighth round: betray
+                return 'b'
+            if len(opponent_history)==8: #It's the ninth round: collude
+                return 'c'
+            if len(opponent_history)==9: #It's the tenth round: collude
+                return 'c'
 
 
 
 
 
-
-
-
-
+        
 
     ######
     ######
