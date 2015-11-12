@@ -1,11 +1,15 @@
 
 from __future__ import print_function
-#Fixing Github
+#Fixing Gith
 #one more try
+<<<<<<< HEAD
+''' one final change 
+=======
 ''' one final change
 
 Adam Zimmerman
 
+>>>>>>> refs/remotes/origin/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -317,7 +321,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy      
-            if len(opponent_history)==0: #It's the first round: collude
+            if len(opponent_history)==0 or len(opponent_history)==1: #It's the first and second round: collude
                 return 'c'
             else:
                 # if there was a previous round just like the last one,
@@ -334,10 +338,13 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                             (prior_round_opponent == recent_round_opponent):
                         return opponent_history[round]
                 # no match found
-                if history[-1]=='c' and opponent_history[-1]=='b':
-                    return 'b' # betray is they were severely punished last time
-                else:
-                    return 'c' #otherwise collude
+                if opponent_history[-2]=='c' and opponent_history[-1]=='c':
+                    return 'c' # colude if opponenet keep colluding
+                elif history[-1]=='b' and history[-2]=='b':
+                    return 'c'
+                else: 
+                    return 'b'
+                    #otherwise betray and collude every third time
 
 
 
