@@ -1,7 +1,11 @@
 from __future__ import print_function
 #Fixing Github
 #one more try
+#thomas
 ''' one final change
+
+Adam Zimmerman
+
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -202,15 +206,36 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
+<<<<<<< HEAD
+            return 'Jack and Thomas'
+=======
             return 'Thomas and Jack'
+>>>>>>> refs/remotes/origin/master
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
-            size = len(history)
+            #size = len(history)
+            if len(opponent_history)==0:
+                return 'c'
+            elif opponent_history[-1] == 'c':
+                return 'c'
+            else:
+                backstabber = True
+                for i in opponent_history:
+                    if i == 'c':
+                        backstabber = False;
+                if random.randint(0, 100) > 95 and not backstabber:
+                    return 'c'
+                else:
+                    return 'b'
+            
+            
+            '''
             if(size%3==0): #the number of rounds played is a multiple of 3
                 return 'c'
             else:
                 return 'b'
+                '''
     
     
     
@@ -272,22 +297,27 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    ######
-    ######       
-    #
+    
     elif player == 7:
         if getting_team_name:
-            return 'loyal vengeful'
-        else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
-            if len(opponent_history)==0: #It's the first round: collude
+            return 'Adam and Eli'
+        else:     
+            if len(opponent_history)==0:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were sucker last time
             else:
-                return 'c' #otherwise collude
-
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' 
+                else:
+                    return 'c' 
 
 
 
