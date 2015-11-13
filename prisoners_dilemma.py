@@ -1,16 +1,14 @@
 
 from __future__ import print_function
-<<<<<<< HEAD
-#Fixing Github
-#one more try
-#thomas
+
+
 ''' one final change
 =======
 >>>>>>> refs/remotes/origin/master
 
 
-'''
->>>>>>> refs/remotes/origin/master
+
+refs/remotes/origin/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
