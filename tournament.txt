@@ -1,470 +1,548 @@
 team 1 vs. team 0
 100 vs. -500
 backstabber vs. loyal
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 1
--377 vs. -74
+-376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 3 vs. team 1
--375 vs. -75
+-376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 0
 0 vs. 0
 Jack and Thomas vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 1
--253 vs. -247
+-252 vs. -248
 Jack and Thomas vs. backstabber
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 2
 0 vs. 0
 Jack and Thomas vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 3
 0 vs. 0
 Jack and Thomas vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 1
--375 vs. -75
+-377 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 5 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 3
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 4
 0 vs. 0
 loyal vengeful vs. Jack and Thomas
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 1
--377 vs. -74
+-375 vs. -75
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 6 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 3
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 4
 0 vs. 0
 loyal vengeful vs. Jack and Thomas
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 5
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 0
 0 vs. 0
 Adam and Eli vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 1
 -253 vs. -247
 Adam and Eli vs. backstabber
-cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 7 vs. team 2
 0 vs. 0
 Adam and Eli vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 3
 0 vs. 0
 Adam and Eli vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 4
 0 vs. 0
 Adam and Eli vs. Jack and Thomas
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 5
 0 vs. 0
 Adam and Eli vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 7 vs. team 6
 0 vs. 0
 Adam and Eli vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 0
 0 vs. 0
 loyal vengeful with permanent second impression vs. loyal
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 1
 -253 vs. -247
 loyal vengeful with permanent second impression vs. backstabber
-ccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 8 vs. team 2
 0 vs. 0
 loyal vengeful with permanent second impression vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 3
 0 vs. 0
 loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 4
 0 vs. 0
 loyal vengeful with permanent second impression vs. Jack and Thomas
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 5
 0 vs. 0
 loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 6
 0 vs. 0
 loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 8 vs. team 7
 0 vs. 0
 loyal vengeful with permanent second impression vs. Adam and Eli
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 0
-2 vs. -13
+2 vs. -14
 betray collude pattern vs. loyal
-ccbcbbcbcc                                                                                                                                                  
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                              
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 1
--22 vs. -3
+-21 vs. -3
 betray collude pattern vs. backstabber
-ccbcbbcbcc                                                                                                                                                                                    
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccbcbbcbcc                                                                                                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 9 vs. team 2
--7 vs. -12
+-6 vs. -10
 betray collude pattern vs. loyal vengeful
-ccbcbbcbcc                                                                                                                                  
-cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                                            
+cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 3
--8 vs. -13
+-7 vs. -10
 betray collude pattern vs. loyal vengeful
-ccbcbbcbcc                                                                                                                    
-cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                                  
+cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 4
 -9 vs. -15
 betray collude pattern vs. Jack and Thomas
-ccbcbbcbcc                                                                                                    
-cccccbbcbccbcbbbbbbbbcbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbbcbbbbbbbbbbbbcbcbbbcbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbcbb
+ccbcbbcbcc                                                                                                
+cccbcbbccccbcbbbbbbbbbbbbcbbbbbbbbbbcbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbb
 
 team 9 vs. team 5
--8 vs. -13
+-5 vs. -9
 betray collude pattern vs. loyal vengeful
-ccbcbbcbcc                                                                                                               
-cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                                                                    
+cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 6
--6 vs. -10
+-5 vs. -9
 betray collude pattern vs. loyal vengeful
-ccbcbbcbcc                                                                                                                                                     
-cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                                                                       
+cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 9 vs. team 7
--7 vs. -11
+-8 vs. -13
 betray collude pattern vs. Adam and Eli
-ccbcbbcbcc                                                                                                                                      
-cccbcbccbccc c                                                                                                                                  
+ccbcbbcbcc                                                                                                               
+cccbcbccbccc c                                                                                                           
 
 team 9 vs. team 8
--12 vs. -12
+-11 vs. -11
 betray collude pattern vs. loyal vengeful with permanent second impression
-ccbcbbcbcc                                                                                                                 
-cccbbcbcbccbb b                                                                                                            
+ccbcbbcbcc                                                                                                                                   
+cccbbcbcbccbb b                                                                                                                              
 
 team 10 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 1
 -376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 10 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 3
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 4
 0 vs. 0
 loyal vengeful vs. Jack and Thomas
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 5
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 6
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 7
 0 vs. 0
 loyal vengeful vs. Adam and Eli
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 8
 0 vs. 0
 loyal vengeful vs. loyal vengeful with permanent second impression
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 10 vs. team 9
--9 vs. -5
+-15 vs. -9
 loyal vengeful vs. betray collude pattern
-cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccbcbbcbcc                                                                                                                                                                                       
+cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                   
 
 team 11 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 1
--376 vs. -75
+-376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 11 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 3
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 4
 0 vs. 0
 loyal vengeful vs. Jack and Thomas
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 5
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 6
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 7
 0 vs. 0
 loyal vengeful vs. Adam and Eli
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 8
 0 vs. 0
 loyal vengeful vs. loyal vengeful with permanent second impression
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 11 vs. team 9
 -10 vs. -6
 loyal vengeful vs. betray collude pattern
-cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccbcbbcbcc                                                                                                                                                               
+cccbcbccbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                                                                          
 
 team 11 vs. team 10
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 12 vs. team 0
-43 vs. -216
+56 vs. -281
 Owen And Cooper: The Cheating Team vs. loyal
-bccccbbbccccbcbcccbccccbcbbbccbbbcccbcbbbcbccbcbbccbccccccbbbcbbcbcccbcccccccccccccbbbbbbccbbcbbcbccbcbbbccbbcbbcbbbbbbcbcccccccccbccbcbbbccbccbbcccbccccbccccbbbcbbbcbcbbbccbccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccbcbbccbbcbbbccbccbbbcbbbbbbcccbbbbccbcbbcccbbcbbbbcbcbcccbbbcbcbcbbbbbcbccccbbcccbbcbbccbcbcbbbbcccbbcb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 12 vs. team 1
--363 vs. -93
+-359 vs. -99
 Owen And Cooper: The Cheating Team vs. backstabber
-bbcbcbbbbbcbbbcbbbccbbcccbccbbccbbbcbccbbbccbccbbbbbbbbcbccbccbccbbcbcccbcbccbccbbbbbcbbcbbcbcccccbbbcbccbcbbbccbccbbbcc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbcbbbbbbbcbcccbbbcbcbbbcbbcbbbbcbbbcbbcccbbbccccbbccbbbbccccccbbcbccbbbbbbbcbcccbcbcbcbcbcccbbbbbbcccccbccbbccccbbccbcbcbbcbcbbcbbbcbbbcbbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 12 vs. team 2
--93 vs. -200
+-99 vs. -218
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-bccbcccbbcccbccbccbbbbbcbbbccccbbcbccbbbbcbbcbbbbccbbbccbccbcccbbbcbcccbbcccbbcccbbbcbbcbbccbbbcbbbbcccbcccbbbcccccbcccbbbbccbbbbbcbcbcbbbcccbcbbbccbcbc
-cbccbcccbccccbccbccbcbcbcbcbccccbccbccbcbccbccbcbcccbcbccbccbcccbcbcbcccbccccbccccbcbcbccbcccbcbcbcbccccbcccbcbcccccbcccbcbcccbcbcbcbcbcbcbcccbcbcbccbcb
+bbbccccbbcbbcbbcbbbcbccbbbbbccbbbcbbbbbbbbcbbcccccbcbbcbcbcbcbcccccbccbbbbbbcbccbcbccbbbccbcbccbbcbcbcbbbbccccbbbcbb
+cbcbccccbccbccbccbcbcbccbcbcbccbcbcbcbcbcbccbccccccbcbccbcbcbcbcccccbccbcbcbccbccbcbccbcbccbcbccbccbcbcbcbcccccbcbcb
 
 team 12 vs. team 3
--108 vs. -183
+-87 vs. -172
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-ccccbcbbbcbcbccccbcbcbbcbccbcbbbbbbcbbbbbcbbbccccbcccbcbccbccccbccbccbbccbcbccbccccccbcbcbbbcbcccbbcbcbcbbcccbcbcbccbbbcbbcbbccb
-cccccbcbcbcbcbccccbcbcbccbccbcbcbcbccbcbcbcbcbccccbcccbcbccbccccbccbccbcccbcbccbccccccbcbcbcbcbcccbccbcbcbccccbcbcbccbcbcbccbccc
+cbcbbcbbbccccccccbcbccccbbbbcbcbcbbbccccbccbbccbcbbccccccccbcbcbccbbbbbccbbbcbcccbccccbbbbbbcccbbccbcbccccbbbcbccccbcbbccbbcbbcc
+ccbcbccbcbccccccccbcbccccbcbccbcbcbcbccccbccbcccbcbcccccccccbcbcbccbcbcbccbcbcbcccbccccbcbcbccccbcccbcbccccbcbcbccccbcbcccbccbcc
 
 team 12 vs. team 4
--120 vs. -148
+-162 vs. -183
 Owen And Cooper: The Cheating Team vs. Jack and Thomas
-bcbbbcbccccbbcccbbbccbcccccccccbcccbbbcbbccccbbcbcbccbcccbccbbcbbbcbbcccbcbccbcbccbbcccbcccccccbccbcbbcbcbbcbcbbccccbcccbccbbcccbbcbcbbcccccccbcbcbccccbcccbbcbccbcbccbbbbb
-cbcbbccbccccbccccbbbccbcccccccccbcccbbccbbccccbbcbcbccbcccbccbbcbbbcbbcccbcbccbcbccbbcccbcccccccbccbcbbcbcbbcbcbbccccbccccccbccccbbcbcbbcccccccbcbcbccccccccbbcbccbcbccbcbb
+bbcbccbbbccccbccbbbccbbcbbcccbcbcbbbbbbcbcbcbbcbbbccbccbcbbcccccbbcbbbbcbcbbbcbbbcbbcccbcccbcbbbcbbcccbccccbccbcbcbbcbbbbcccbbbcbbbbbccbcbbbbbcbbccbcbbbccbbccbbcbcbccbbbcccb
+cbbcbccbbbccccbccbbbccbbcbbcccbcbcbbbbcbcbcbcbbcbbcccbccbcbbcccccbbcbbbbcbcbbbcbbbcbbcccbcccbcbbbcbbcccbccccbccccbcbbcbbbbcccbbccbbcbbccbcbbbbbcbbccbcbbbccbbccbbcbcbccbbbccc
 
 team 12 vs. team 5
--104 vs. -217
+-83 vs. -175
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-bcccccbcccbcbccbcbccbcbcbccbcccbbbcbbcbbbccbbbbbcbbbbbbccbbccbcbcbbcbbbbcbcbbbbbcbbcbcccbcbbbbccccbbbcbbbb
-cbcccccbcccbcbccbcbccbcbcbccbcccbcbcbccbcbccbcbcbcbcbcbcccbcccbcbcbccbcbccbcbcbcbcbccbcccbcbcbcccccbcbcbcb
+ccccbcccbccbbcbcccbcccbbbbcbcbcccbcccbccbbcbccbbbbccccbcbbcccbbccbbbcccbbccbbbccbbbbcbbccbccbbbcbcbbbcbbcbbcbcbbccbbcbcccccbbcccbccccbbcbccbcccbbcbcbbbbbbcccbbccccbcccbcbbccbccbcbcbccccbbcc
+cccccbcccbccbccbcccbcccbcbccbcbcccbcccbccbccbccbcbcccccbcbccccbcccbcbcccbcccbcbccbcbccbcccbccbcbcbcbcbcbccbccbcbcccbccbcccccbccccbccccbccbccbcccbccbcbcbcbccccbcccccbcccbcbcccbccbcbcbccccbcc
 
 team 12 vs. team 6
--86 vs. -194
+-91 vs. -202
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-bbcccbcbcbcccbcbbbbcccbbcccccbcbccbbcbcbcbbccbcccccbbcccbbbcbbcccbbcccbbbbbcbbbbcbccbccbcccccbbbccbbbbbbbccccbbbcbbbbccbccbbbccccbbcbbbcbcb
-cbccccbcbcbcccbcbcbccccbccccccbcbccbccbcbcbcccbcccccbccccbcbcbccccbccccbcbcbcbcbccbccbccbcccccbcbccbcbcbcbccccbcbcbcbcccbccbcbccccbccbcbcbc
+cbbbbbcbcbcbcccccccbbcbccbbcbbccbcbbbbbbcbbcbcccbccbbbbccccbbcbbbbbbbbbcbbcbbbccccccbcbcbccbcccbcbccccbcbcbbbcbcbbccbccccbccbbcccbbbbbccbbbbbbccbbccbbcbbbbbbcbccccbcccbcbcbb
+ccbcbcbcbcbcbcccccccbccbccbccbcccbcbcbcbccbccbcccbccbcbcccccbccbcbcbcbcbcbccbcbccccccbcbcbccbcccbcbccccbcbcbcbcbcbcccbccccbccbccccbcbcbccbcbcbcccbcccbccbcbcbccbccccbcccbcbcb
 
 team 12 vs. team 7
--159 vs. -162
+-155 vs. -158
 Owen And Cooper: The Cheating Team vs. Adam and Eli
-bbccccbbccbcccbbbcbbccbbbbcbcbcccbcccbbccbcbbcbcbbccccbbbcbccbbcbbbccbcbbcccccccbccbccbbbcccccbbbcbbcbcccbbbbcbbbbbccbcbccccbbbbbbcbcbbcbbbbbccccbbbccccbbbbcbbbbbcbbbccccccbbcc
-cbcccccbbccbcccbbbcbbccbbbbcbcbcccbcccbbccbcbbcbcbbccccbbbcbccbbcbbbccbcbbcccccccbccbccbbbcccccbbbcbbcbcccbbbbcbbbbbccbcbccccbbbbbbcbcbbcbbbbbccccbbbccccbbbbcbbbbbcbbbccccccbbc
+cbccbccbbbbbbcbbbcbcbbbccbcbbcccbccbccccbbccbbccccbbcbcccbbbcccbbbbcbcbccbbcbccbbbccbcbcbccccccbbbbcbbbbbbbbbbbcbccccbcbccbcccbbbcbccccccbcccbccccbccbbcccbbccbbcccccbbbbccbbcbbcbbccbbbbcbcc
+ccbccbccbcbbbbcbbbcbcbbbccbcbbcccbccbccccbbccbbccccbbcbcccbbbcccbbbbcbcbccbbcbccbbbccbcbcbccccccbbbbcbbbbbbbbbbbcbccccbcbccbcccbbbcbccccccbcccbccccbccbbcccbbccbbcccccbbbbccbbcbbcbbccbbbbcbc
 
 team 12 vs. team 8
--166 vs. -169
+-155 vs. -158
 Owen And Cooper: The Cheating Team vs. loyal vengeful with permanent second impression
-bbbcbbccbbbbcbbbccccbbbbccccbbbcbcbbcbcccbcccbcbbbbbccbcbbcbcccccbcbcccbcbbccbcbcbccbbbcccbbcbbbcbbccbbccccbbbcbccbcbcbcbbbbccbbbcbccbbbbccbbbcbbbbccbcbccbbbbcbcbbcbcccbccbbcccccbbcccc
-ccbbcbbccbbbbcbbbccccbbbbccccbbbcbcbbcbcccbcccbcbbbbbccbcbbcbcccccbcbcccbcbbccbcbcbccbbbcccbbcbbbcbbccbbccccbbbcbccbcbcbcbbbbccbbbcbccbbbbccbbbcbbbbccbcbccbbbbcbcbbcbcccbccbbcccccbbccc
+bbcbcbccbccbbbbbbbbccbcccccbbbccbcbcbccbbbbcccccbccccbbcbcccbbcccbbbbbbcbbccbcccbccbcbbbcbbccccbbbcbcbccbbcccbbbccbbccccbcbcbccbcbcccbccccbcccbcbbcbbbbcccccbbcbccbbccccbbcbbbcccbbccbbcbbbcbbbb
+ccbbcbbccbccbbbbbbbbccbcccccbbbccbcbcbccbbbbcccccbccccbbcbcccbbcccbbbbbbcbbccbcccbccbcbbbcbbccccbbbcbcbccbbcccbbbccbbccccbcbcbccbcbcccbccccbcccbcbbcbbbbcccccbbcbccbbccccbbcbbbcccbbccbbcbbbcbbb
 
 team 12 vs. team 9
--12 vs. -18
+-13 vs. -13
 Owen And Cooper: The Cheating Team vs. betray collude pattern
-cbccbcbcbbcccccbccbbbcbbbcbcbbbbccbbcbbcbbbcbccbccccbcbbbccccbccbcccbccbbcbbcccbbccbbbcccbcbcbbbccccbbbbcbcccbcbc
-ccbcbbcbcc                                                                                                       
+ccbccbccbbcbcbbbccccbccbbbcccbbccbccccbbbcbbcbbcbccbcbbccbccbccbbbccbcbccbbbcbcbccbcbbbbbbbbbccbcbbcc
+ccbcbbcbcc                                                                                           
 
 team 12 vs. team 10
--106 vs. -208
+-87 vs. -188
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-cbccccbbcbccbbcbcbcccbbbcbcbccbbbcbbbcbbbcbcbbbcccbcbbbcbccbbbccbbcbcbcbccbcbccbbcbbcbcbcbbcbbcccbbcbcccbcccbccbbccbbccccbbbbbbccbcccbcccbbbbbcbbbcbccbcbbbcbbbbcbbbb
-ccbccccbccbccbccbcbcccbcbcbcbccbcbcbcbcbcbcbcbcbcccbcbcbcbccbcbccbccbcbcbccbcbccbccbccbcbcbccbccccbccbcccbcccbccbcccbcccccbcbcbcccbcccbcccbcbcbcbcbcbccbcbcbcbcbccbcb
+cbcbbcbcbcbccbbcbccbbbbccbcbcbcbcccbcbcbbcccbbbcbbbbbcbbcbbccbbcccccbcbcbcccccccbbbcccbbbbcbccccbbbbccbbbbcccbcccccbbcb
+ccbcbccbcbcbccbccbccbcbcccbcbcbcbcccbcbcbccccbcbcbcbcbcbccbcccbccccccbcbcbcccccccbcbcccbcbccbccccbcbcccbcbccccbcccccbcc
 
 team 12 vs. team 11
--96 vs. -176
+-84 vs. -167
 Owen And Cooper: The Cheating Team vs. loyal vengeful
-cbccbcbbcbccccbccbcccbbccbbcccbbbccccbbccbbbcbbcccbcbcbbbccccbbcbbbbcbbbcbcbcbbcbcbccbccbcbcccbcccbcccbbcccbbcbc
-ccbccbcbccbccccbccbcccbcccbccccbcbccccbcccbcbcbccccbcbcbcbccccbccbcbccbcbcbcbcbccbcbccbccbcbcccbcccbcccbccccbccb
+cbbcbcbbcbbbbcbcbccccccbbcbcbcccccccbbbccbbcccbcccbcbccbccccbbbbccbccccbcccbccccccbbccbcbbccbcbbbbcbccbbcccbcbcccbbbcbbbccb
+ccbccbcbccbcbccbcbccccccbccbcbcccccccbcbccbccccbcccbcbccbccccbcbcccbccccbcccbccccccbcccbcbcccbcbcbccbccbccccbcbcccbcbcbcbcc
+
+team 13 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 13 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 4
+0 vs. 0
+loyal vengeful vs. Jack and Thomas
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 7
+0 vs. 0
+loyal vengeful vs. Adam and Eli
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 9
+-15 vs. -9
+loyal vengeful vs. betray collude pattern
+cccbcbccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccbcbbcbcc                                                                                                 
+
+team 13 vs. team 10
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 12
+-184 vs. -80
+loyal vengeful vs. Owen And Cooper: The Cheating Team
+cccbcbccbcbcccccccbcbcbcbcccbcbcbccccbcccbccccbccbccbcccbcbcbccccbcccbcbccbccbcbccbcccbccbccccbccbcccbcbccccccbcccbcbcbcbccccbccbccbcbcbccbccccccbccbccbccccccbcbccbccbccbcbccbcbcb
+ccbcbbcbbbcccccccbbbcbbbbccbbbcbbcccbcccbbcccbbcbbcbbccbbbcbbcccbcccbbbbcbccbcbbcbcccbccbbcccbbcbbccbcbbcccccbcccbcbcbbbccccbbcbbcbbbcbbcbbcccccbccbccbbcccccbcbccbbcbccbbbccbbbbbc
 
 
 
@@ -472,38 +550,40 @@ ccbccbcbccbccccbccbcccbcccbccccbcbccccbcccbcbcbccccbcbcbcbccccbccbcbccbcbcbcbcbc
 	Each column shows score earned per round against each other player.
 
 
-	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	
-P0	0	100	0	0	0	0	0	0	0	2	0	0	43	
-P1	-500	0	-377	-375	-253	-375	-377	-253	-253	-22	-376	-376	-363	
-P2	0	-74	0	0	0	0	0	0	0	-7	0	0	-93	
-P3	0	-75	0	0	0	0	0	0	0	-8	0	0	-108	
-P4	0	-247	0	0	0	0	0	0	0	-9	0	0	-120	
-P5	0	-75	0	0	0	0	0	0	0	-8	0	0	-104	
-P6	0	-74	0	0	0	0	0	0	0	-6	0	0	-86	
-P7	0	-247	0	0	0	0	0	0	0	-7	0	0	-159	
-P8	0	-247	0	0	0	0	0	0	0	-12	0	0	-166	
-P9	-13	-3	-12	-13	-15	-13	-10	-11	-12	0	-9	-10	-12	
-P10	0	-74	0	0	0	0	0	0	0	-5	0	0	-106	
-P11	0	-75	0	0	0	0	0	0	0	-6	0	0	-96	
-P12	-216	-93	-200	-183	-148	-217	-194	-162	-169	-18	-208	-176	0	
-Total:	-727	-1178	-586	-569	-413	-604	-579	-425	-433	-101	-591	-560	-1364	
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	
+P0	0	100	0	0	0	0	0	0	0	2	0	0	56	0	
+P1	-500	0	-376	-376	-252	-377	-375	-253	-253	-21	-376	-376	-359	-375	
+P2	0	-74	0	0	0	0	0	0	0	-6	0	0	-99	0	
+P3	0	-74	0	0	0	0	0	0	0	-7	0	0	-87	0	
+P4	0	-248	0	0	0	0	0	0	0	-9	0	0	-162	0	
+P5	0	-74	0	0	0	0	0	0	0	-5	0	0	-83	0	
+P6	0	-75	0	0	0	0	0	0	0	-5	0	0	-91	0	
+P7	0	-247	0	0	0	0	0	0	0	-8	0	0	-155	0	
+P8	0	-247	0	0	0	0	0	0	0	-11	0	0	-155	0	
+P9	-14	-3	-10	-10	-15	-9	-9	-13	-11	0	-15	-10	-13	-15	
+P10	0	-74	0	0	0	0	0	0	0	-9	0	0	-87	0	
+P11	0	-74	0	0	0	0	0	0	0	-6	0	0	-84	0	
+P12	-281	-99	-218	-172	-183	-175	-202	-158	-158	-13	-188	-167	0	-184	
+P13	0	-75	0	0	0	0	0	0	0	-9	0	0	-80	0	
+Total:	-793	-1259	-602	-556	-448	-558	-584	-423	-420	-102	-577	-552	-1393	-573	
 
 
  Average per round, with team strategy names:
 
-player 0: -56 points: loyal
-player 1: -91 points: backstabber
-player 2: -46 points: loyal vengeful
-player 3: -44 points: loyal vengeful
+player 0: -57 points: loyal
+player 1: -90 points: backstabber
+player 2: -43 points: loyal vengeful
+player 3: -40 points: loyal vengeful
 player 4: -32 points: Jack and Thomas
-player 5: -47 points: loyal vengeful
-player 6: -45 points: loyal vengeful
-player 7: -33 points: Adam and Eli
-player 8: -34 points: loyal vengeful with permanent second impression
+player 5: -40 points: loyal vengeful
+player 6: -42 points: loyal vengeful
+player 7: -31 points: Adam and Eli
+player 8: -30 points: loyal vengeful with permanent second impression
 player 9: -8 points: betray collude pattern
-player 10: -46 points: loyal vengeful
-player 11: -44 points: loyal vengeful
-player 12: -105 points: Owen And Cooper: The Cheating Team
+player 10: -42 points: loyal vengeful
+player 11: -40 points: loyal vengeful
+player 12: -100 points: Owen And Cooper: The Cheating Team
+player 13: -41 points: loyal vengeful
 
 
 -------------------------------------------------------------------------------
