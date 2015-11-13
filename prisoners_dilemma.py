@@ -1,13 +1,7 @@
 
 from __future__ import print_function
-<<<<<<< HEAD
-#Fixing Github
-#one more try
-'''sophie'''
-=======
 
 
->>>>>>> refs/remotes/origin/master
 ''' one final change
 =======
 >>>>>>> refs/remotes/origin/master
